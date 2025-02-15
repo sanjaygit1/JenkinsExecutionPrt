@@ -9,8 +9,7 @@ public class DebuggingEx {
 
 	public static void main(String[] args) {
 
-		//im pulling the code
-		//im pushing back
+		//push to github
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.flipkart.com");
 	//	driver.manage().window().maximize();
